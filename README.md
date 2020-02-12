@@ -17,7 +17,6 @@ Custom Encryption and Decryption Algorithm
 2. The 'Copy' button copies output to clipboard.
 3. Use 'Erase' button to erase text in the input/output text field.
 
-
 # CONTACT AUTHOR
 email: anandjnairwhilecoding@gmail.com
    
